@@ -1,0 +1,30 @@
+﻿  Citizen.cpp
+  District.cpp
+  ElectionRound.cpp
+C:\src\github.com\DeanBiton\elections simulator\elections simulator\ElectionRound.cpp(172,26): warning C4101: 'ex': unreferenced local variable
+C:\src\github.com\DeanBiton\elections simulator\elections simulator\ElectionRound.cpp(183,27): warning C4101: 'ex': unreferenced local variable
+C:\src\github.com\DeanBiton\elections simulator\elections simulator\ElectionRound.cpp(227,26): warning C4101: 'ex': unreferenced local variable
+C:\src\github.com\DeanBiton\elections simulator\elections simulator\ElectionRound.cpp(306,30): warning C4018: '>': signed/unsigned mismatch
+C:\src\github.com\DeanBiton\elections simulator\elections simulator\ElectionRound.cpp(284,27): warning C4101: 'ex': unreferenced local variable
+C:\src\github.com\DeanBiton\elections simulator\elections simulator\ElectionRound.cpp(299,27): warning C4101: 'ex': unreferenced local variable
+  ElectionRoundMemory.cpp
+  HelperFunc.cpp
+  main.cpp
+  Party.cpp
+C:\src\github.com\DeanBiton\elections simulator\elections simulator\Rep.h(113,28): warning C4101: 'ex': unreferenced local variable
+C:\src\github.com\DeanBiton\elections simulator\elections simulator\Rep.h(99): message : while compiling class template member function 'bool election::Rep<election::District>::addCitizen(T *,election::Citizen *)'
+          with
+          [
+              T=election::District
+          ]
+C:\src\github.com\DeanBiton\elections simulator\elections simulator\Party.cpp(112): message : see reference to function template instantiation 'bool election::Rep<election::District>::addCitizen(T *,election::Citizen *)' being compiled
+          with
+          [
+              T=election::District
+          ]
+C:\src\github.com\DeanBiton\elections simulator\elections simulator\Party.cpp(33): message : see reference to class template instantiation 'election::Rep<election::District>' being compiled
+  PointerArray.cpp
+  Rep.cpp
+  SaveAndLoad.cpp
+  Generating Code...
+  elections simulator.vcxproj -> C:\src\github.com\DeanBiton\elections simulator\Debug\elections simulator.exe
